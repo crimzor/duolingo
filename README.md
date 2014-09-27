@@ -73,4 +73,4 @@ Known bugs / limitations:
 * The progress chart on your home page won't update after using immersion until you refresh the page or do a lesson/practice.
 * Still being tested.
 
-[Install Duolingo Stats](https://github.com/vaughanchandler/duolingo/raw/master/duolingo-stats.user.js) (instructions above)
+[Install Duolingo Stats](https://github.com/crimzor/duolingo/raw/master/duolingo-stats.user.js) (instructions above)
